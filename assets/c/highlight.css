@@ -1,7 +1,7 @@
 pre code.hljs {
   display: block;
   overflow-x: auto;
-  padding: 1em;
+  /* padding: 1em; */
 }
 
 code.hljs {
@@ -10,7 +10,7 @@ code.hljs {
 
 .hljs {
   color: #a5a2a2 !important;
-  background: #0d0d0d !important;
+  background: #212121 !important;
 }
 
 .hljs::-moz-selection,
